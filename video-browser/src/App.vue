@@ -14,7 +14,7 @@ import SearchBar from './components/SearchBar.vue'
 import VideoList from './components/VideoList.vue'
 import VideoDetail from './components/VideoDetail.vue'
 
-const API_KEY = 'AIzaSyBHSj_v4Lp_Vh95iyzcIKYJydUi6c-KCAQ'
+const API_KEY = 'faksdjfkljaskldjf'
 
 export default {
   name: 'App',
